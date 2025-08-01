@@ -51,16 +51,16 @@
 
 ### 🔝 Certification
 <p align="justify">
-  - <a href="https://www.credly.com/badges/40838151-c2fa-4ab0-96b8-3ed4b1ae9c84/public_url" target="_blank">GitHub Actions for CI/CD – GitHub Certified</a>  
+  - GitHub Actions for CI/CD – GitHub Certified<a href="https://www.credly.com/badges/40838151-c2fa-4ab0-96b8-3ed4b1ae9c84/public_url" target="_blank">[Link]</a>  
 </p>
 <p align="justify">
-  - <a href="https://www.credly.com/badges/530ad91b-525b-42a8-945a-2cf2e64fc6ec/public_url" target="_blank">MongoDB Certified Solutions Architect</a>  
+  - MongoDB Certified Solutions Architect<a href="https://www.credly.com/badges/530ad91b-525b-42a8-945a-2cf2e64fc6ec/public_url" target="_blank">[Link]</a>  
 </p>
 <p align="justify">
-  - <a href="https://www.credly.com/badges/12e8af39-820c-4de9-8f7a-5ad993e21d7b/public_url" target="_blank">AWS Certified Cloud Practitioner</a>  
+  -AWS Certified Cloud Practitioner <a href="https://www.credly.com/badges/12e8af39-820c-4de9-8f7a-5ad993e21d7b/public_url" target="_blank">[Link]</a>  
 </p>
 <p align="justify">
-  - <a href="https://learn.microsoft.com/en-us/users/nehasawant-1028/credentials/69e6d390d11122dc?ref=https%3A%2F%2Fwww.overleaf.com%2F" target="_blank">Microsoft Azure Fundamentals (AZ-900)</a>  
+  - Microsoft Azure Fundamentals (AZ-900)<a href="https://learn.microsoft.com/en-us/users/nehasawant-1028/credentials/69e6d390d11122dc?ref=https%3A%2F%2Fwww.overleaf.com%2F" target="_blank">[Link]</a>  
 </p>
 
 ---
